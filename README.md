@@ -16,7 +16,6 @@
 - 💸 **Live Tip and Total Calculation** — Automatically calculates and displays the tip and total.
 - 👥 **Optional Bill Splitting** — Enter number of people to fairly divide the total amount. And to make it even better, The amount of people isn't obligatory to input!
 - 🎨 **Custom UI** — Built using CustomTkinter for a modern, dark-mode-friendly experience.
-- 🖱️ **System Cursor Consistency** — App maintains the default system cursor.
 - ⚙️ **Lightweight and Responsive** — Quick to launch, easy to use, and clutter-free.
 
 ---
