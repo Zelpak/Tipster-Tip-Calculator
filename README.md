@@ -23,8 +23,8 @@
 
 ## 🚀 Technologies Used
 
-- [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
-- [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-UI-blueviolet)](https://github.com/TomSchimansky/CustomTkinter)
+ [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
+ [![CustomTkinter](https://img.shields.io/badge/CustomTkinter-UI-blueviolet)](https://github.com/TomSchimansky/CustomTkinter)
 
 ---
 
